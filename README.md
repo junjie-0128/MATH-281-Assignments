@@ -3,5 +3,5 @@ This repository contains materials for the three computational class project on 
 
 ## Contents
 
-- [Solutions](./Well_WritTen_NB): Contains all well written Mathematica code and results.
+- [Solutions](./Well_Written_NB): Contains all well written Mathematica code and results.
 - [HWs](./Assignment_folder): Contains all well written Mathematica code for HW.
